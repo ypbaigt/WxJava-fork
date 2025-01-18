@@ -1,3 +1,5 @@
+试试fork的项目能合并主吗。哈哈
+
 ## WxJava - 微信开发 Java SDK
 
 [![码云Gitee](https://gitee.com/binary/weixin-java-tools/badge/star.svg?theme=blue)](https://gitee.com/binary/weixin-java-tools)
